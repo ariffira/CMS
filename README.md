@@ -5,6 +5,18 @@ made by Muhammad ariful islam (MAI) as project test
 ## Author and licence
  Its written by Muhammad Ariful Islam (MAI) and its free for any new learners for development and personal use. For professional and production use you should have use my name as fundamental designer and probably contact me. Thanks
 
+## Used langauges and tools:
+### Reactjs
+### Bootstrap
+### Reactbootstrap
+### vscode
+
+## concepts and topics covered:
+### Reactjs basic design
+### styling
+### Modal
+### Context API
+
 ## Available Scripts
 
 In the project directory, you can run:
