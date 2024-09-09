@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# CMS: CLassroom management system 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+made by Muhammad ariful islam (MAI) as project test
+
+## Author and licence
+ Its written by Muhammad Ariful Islam (MAI) and its free for any new learners for development and personal use. For professional and production use you should have use my name as fundamental designer and probably contact me. Thanks
 
 ## Available Scripts
 
