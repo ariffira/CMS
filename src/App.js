@@ -52,13 +52,13 @@ function App() {
           </Row>
           <Row className="justify-content-md-center">
             <Col>
-              <Button variant="primary" size='lg' className='p-5 m-5' onClick={() => setAddClassModal(true)}>
+              <Button variant="primary" className='p-5 m-5' onClick={() => setAddClassModal(true)}>
                 <FontAwesomeIcon icon={faGraduationCap} size='lg' />
                 Add new Class
               </Button>
             </Col>
             <Col>
-              <Button variant="success" size='lg' className='p-5 m-5' onClick={() => setListClassModal(true)}>
+              <Button variant="success" className='p-5 m-5' onClick={() => setListClassModal(true)}>
                 <FontAwesomeIcon icon={faBuildingColumns} size='lg' />
                 All Classes
               </Button>
@@ -66,13 +66,13 @@ function App() {
           </Row>
           <Row className="justify-content-md-center">
             <Col>
-              <Button variant="danger" size='lg' className='p-5 m-5' onClick={() => setRegisterModal(true)}>
+              <Button variant="danger" className='p-5 m-5' onClick={() => setRegisterModal(true)}>
                 <FontAwesomeIcon icon={faAddressCard} size='lg' />
                 Registration
               </Button>
             </Col>
             <Col>
-              <Button variant="warning" size='lg' className='p-5 m-5' onClick={() => setLoginModal(true)}>
+              <Button variant="warning" className='p-5 m-5' onClick={() => setLoginModal(true)}>
                 <FontAwesomeIcon icon={faRightToBracket} size='lg' />
                 Login
               </Button>
